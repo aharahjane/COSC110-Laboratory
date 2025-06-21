@@ -35,7 +35,7 @@ We worked with the Titanic dataset from Kaggle.
 ###  Step 5: Remove Duplicates
 - Checked for repeated rows and deleted any duplicates.
 
-### 🏷 Step 6: Fix Data Types
+###  Step 6: Fix Data Types
 - Converted certain columns (like "Survived" and "Pclass") into categorical data for easier use.
 
 ## Basic Visualizations
